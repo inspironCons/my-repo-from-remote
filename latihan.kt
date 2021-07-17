@@ -1,3 +1,6 @@
 fun main(){
-    Println("test")
+    val a = 5
+    val b = 6
+    val perkalian = a*b
+    Println(perkalian)
 }
